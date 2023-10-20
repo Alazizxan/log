@@ -103,7 +103,7 @@ npm start
 ```
 Once running, the server logs a confirmation and opens the app in your browser: [http://localhost:3000/](http://localhost:3000/)
 
-<img width="372" alt="Screenshot 2025-04-25 at 9 08 50 PM" src="https://github.com/user-attachments/assets/794a6dba-9fbb-40f1-9e57-c5c2e2af1013" />
+<img width="372" alt="Screenshot 2023 at 9 08 50 PM" src="https://github.com/user-attachments/assets/794a6dba-9fbb-40f1-9e57-c5c2e2af1013" />
 
 # What’s completed so far:
 1. FastAPI server is up and running (24 Apr)
